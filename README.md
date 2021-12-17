@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Node, Express and React**
 - 👍 Interests: Blockchain, AWS, videogames, chess, logic puzzles
 
-## Projects
-
 My Portfolio
 
 <p>
@@ -33,6 +31,8 @@ My Portfolio
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=portfolio&theme=dark" alt="portfolio" />
   </a>
 </p>
+
+## Projects
 
 Team projects
 
