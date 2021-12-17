@@ -23,3 +23,13 @@ Here are some ideas to get you started:
   be verified using **blockchain technology** and easily shared using **QR codes**
 - 🌱 I’m currently learning **Node, Express and React**
 - 👍 Interests: Blockchain, AWS, videogames, chess, logic puzzles
+
+## Projects
+
+Team projects
+
+<a href="https://github.com/AidKool/jobs-finder">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=jobs-finder&theme=dark" alt="jobs-finder" />
+</a>
+
+Individual projects
