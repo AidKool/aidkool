@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Node, Express and React**
 - 👍 Interests: Blockchain, AWS, videogames, chess, logic puzzles
 
-Stats
+### Stats
 
 ![AidKool's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidkool&theme=monokai&show_icons=true)
 
-My Portfolio
+### My Portfolio
 
 <p>
   <a href="https://github.com/AidKool/portfolio">
