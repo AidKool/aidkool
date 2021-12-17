@@ -48,15 +48,11 @@ Individual projects
   <a href="https://github.com/AidKool/weather-dashboard">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=weather-dashboard&theme=dark" alt="weather-dashboard" />
   </a>
-</p>
 
-<p>
   <a href="https://github.com/AidKool/daily-planner">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=daily-planner&theme=dark" alt="daily-planner" />
   </a>
-</p>
 
-<p>
   <a href="https://github.com/AidKool/javascript-quiz">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=javascript-quiz&theme=dark" alt="javascript-quiz" />
   </a>
