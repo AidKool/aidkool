@@ -28,7 +28,7 @@ My Portfolio
 
 <p>
   <a href="https://github.com/AidKool/portfolio">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=portfolio&theme=dark" alt="portfolio" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=portfolio&theme=monokai" alt="portfolio" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Team projects
 
 <p>
   <a href="https://github.com/AidKool/jobs-finder">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=jobs-finder&theme=dark" alt="jobs-finder" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=jobs-finder&theme=monokai" alt="jobs-finder" />
   </a>
 </p>
 
@@ -46,14 +46,14 @@ Individual projects
 
 <p>
   <a href="https://github.com/AidKool/weather-dashboard">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=weather-dashboard&theme=dark" alt="weather-dashboard" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=weather-dashboard&theme=monokai" alt="weather-dashboard" />
   </a>
 
   <a href="https://github.com/AidKool/daily-planner">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=daily-planner&theme=dark" alt="daily-planner" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=daily-planner&theme=monokai" alt="daily-planner" />
   </a>
 
   <a href="https://github.com/AidKool/javascript-quiz">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=javascript-quiz&theme=dark" alt="javascript-quiz" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=javascript-quiz&theme=monokai" alt="javascript-quiz" />
   </a>
 </p>
