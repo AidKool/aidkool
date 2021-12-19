@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a Fullstack Developer based in Manchester, 🇬🇧.
 
 - 🏢 I'm currently studying full stack web development at the **University of Manchester**
-- 🏢 I'm currently studying a BSc Computing and Information Systems at the **University of London**
+- 🏢 I'm currently studying BSc Computing and Information Systems at the **University of London**
 - 🔭 I'm currently working on my final project for my degree which revolves around generation of a digital ID that can
   be verified using **blockchain technology** and easily shared using **QR codes**
 - 🌱 I’m currently learning **Node, Express and React**
