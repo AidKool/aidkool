@@ -26,11 +26,3 @@ Here are some ideas to get you started:
 ### Stats
 
 ![AidKool's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidkool&theme=monokai&show_icons=true&count_private=true)
-
-### My Portfolio
-
-<p>
-  <a href="https://aidkool.github.io/react-portfolio/">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=portfolio&theme=monokai" alt="portfolio" />
-  </a>
-</p>
