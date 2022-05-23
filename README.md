@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### My Portfolio
 
 <p>
-  <a href="https://github.com/AidKool/portfolio">
+  <a href="https://aidkool.github.io/react-portfolio/">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aidkool&repo=portfolio&theme=monokai" alt="portfolio" />
   </a>
 </p>
