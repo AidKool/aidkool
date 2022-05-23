@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 #### I'm a Fullstack Developer based in Manchester, 🇬🇧.
 
-- 🏢 I'm currently studying full stack web development at the **University of Manchester**
-- 🏢 I'm currently studying BSc Computing and Information Systems at the **University of London**
-- 🔭 I'm currently working on my final project for my degree which focuses on generating a digital ID that can
-  be verified using **blockchain technology** and easily shared using **QR codes**
-- 🌱 I’m currently learning **Node, Express and React**
+- 🏢 Recently completed Full-Stack Web Development Certificate at the **University of Manchester**
+- 🏢 Recently completed BSc Computing and Information Systems at the **University of London**
+- 🔭 I'm currently working on a job applications tracker using the **MERN stack**, **TypeScript**, **Material UI** and **GraphQL**
+- 🌱 I’m currently learning **TypeScript** and **Material UI**
 - 👍 Interests: Blockchain, AWS, videogames, chess, logic puzzles
 
 ### Stats
